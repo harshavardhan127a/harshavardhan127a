@@ -38,8 +38,7 @@
 
 ## 📫 Let's Connect!
 - 📧 harshavardhan127a@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio Website](https://yourwebsite.dev) *(optional)*
+- 🔗 [LinkedIn](www.linkedin.com/in/harsha-vardhan-127akula)  
 
 ---
 
