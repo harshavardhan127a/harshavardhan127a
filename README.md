@@ -64,7 +64,7 @@
   <a href="mailto:harshavardhan127a@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshavardhan127a@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="www.linkedin.com/in/harsha-vardhan-127akula">
     <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/your-username">
